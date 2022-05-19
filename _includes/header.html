@@ -28,6 +28,7 @@
 		        <li><a href="{{ "" | absolute_url }}/">{{ page.title }}</a></li>
 	    	{% endif %}
 		{% endfor %}
+		<li><a href="/portfolio/#two">Bio</a></li>
 		{% for page in site.html_pages %}
 		    {% if page.layout != "home" and page.nav-menu == true %}
 		        <li><a href="{{ page.url | absolute_url }}">{{ page.title }}</a></li>
@@ -35,6 +36,6 @@
 		{% endfor %}
 	</ul>
 	<ul class="actions vertical">
-		<li><a href="#" class="button special fit">Home</a></li>
+		<li><a href="/portfolio/landing.html#three" class="button special fit">My Journey</a></li>
 	</ul>
 </nav>

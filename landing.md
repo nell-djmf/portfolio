@@ -1,5 +1,6 @@
 ---
-title: Me, as a developer.
+title: Hire Me
+sub-title: Me, as a developer
 layout: landing
 description: "Here, you can find my skills, recommendations by my peers, my resume, and some more in-depth insight into my journey to find my passion."
 image: assets/images/pic07.jpg
@@ -12,14 +13,18 @@ nav-menu: true
 <!-- One -->
 <section id="one">
 	<div class="inner">
-		<header class="major">
-			<a href="generic.html" class="button next">Resume</a>
-		</header>
-			<p><strong>Base:</strong> Javascript, HTML, CSS, Python</p>
-			<p><strong>Front-end:</strong> React, Vue, Redux</p>
-			<p><strong>Back-end:</strong> MongoDB, Mongoose, Express, PostgreSQL, Sequelize, Django, Node.js</p>
-			<p><strong>Tools:</strong> Visual Studio Code, Github, MongoDB Compass, Arctype, Insomnia</p>
-			<p><strong>Deployment:</strong> Heroku, Surge</p>
+			<a href="https://docs.google.com/document/d/1z8vcwO7R7FQIoHDXTdLSBOm0eeBeBTfuth6JaC88I-c/edit?usp=sharing" class="button next">Resume</a>
+			<br />
+			<br />
+			<p><strong>Base:</strong> Javascript, HTML, CSS, Python
+			<br />
+			<strong>Front-end:</strong> React, Vue, Redux
+			<br />
+			<strong>Back-end:</strong> MongoDB, Mongoose, Express, PostgreSQL, Sequelize, Django, Node.js
+			<br />
+			<strong>Tools:</strong> Visual Studio Code, Github, MongoDB Compass, Arctype, Insomnia
+			<br />
+			<strong>Deployment:</strong> Heroku, Surge</p>
 	</div>
 </section>
 
@@ -27,7 +32,7 @@ nav-menu: true
 <section id="two" class="spotlights">
 	<section>
 		<a href="https://www.linkedin.com/in/chaz-curlee/" class="image">
-			<img src="{% link assets/images/pic08.jpg %}" alt="" data-position="center center" />
+			<img src="assets/images/pic08.jpg" alt="" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -45,7 +50,7 @@ nav-menu: true
 	</section>
 	<section>
 		<a href="https://www.linkedin.com/in/jenna-allgeier/" class="image">
-			<img src="{% link assets/images/pic09.jpg %}" alt="" data-position="top center" />
+			<img src="assets/images/pic09.jpg" alt="" data-position="top center" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -93,9 +98,6 @@ nav-menu: true
 	<br />
 	<br />
 	Delving into this world has been simultaneously the most challenging, and the most rewarding experience of my life. Looking at code in the early days used to feel like trying to decipher another language (which it was). And just like learning a new language, the more I learn, the more I appreciate the nuance and personality of the writer. Among all the brackets, conditions, and loops, you can discern an artistry that I thought was only possible in traditional mediums. I’d like to think that somewhere, floating in the depths of cyberspace, someone will discover my own artistry - even the clumsy, bloated projects from when I first tried my hand at making something. They might say “wow, this is awful” or even “wow, how did that even work?” But in the end, it was me! I contributed something to the broad tapestry of this industry, no matter how small. And one day, when I’m older, wiser, and maybe have a higher reputation on Stack Overflow, I can create something that warrants a simple “wow.”</p>
-		<ul class="actions">
-			<li><a href="generic.html" class="button next">Get Started</a></li>
-		</ul>
 	</div>
 </section>
 
