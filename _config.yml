@@ -6,15 +6,15 @@ description: A responsive site template designed by HTML5 Up<br /> and released 
 baseurl: "/portfolio" # the subpath of your site, e.g. /blog
 url: https://nell-djmf.github.io
 author:
-street_address: 1234 Somewhere Road
-city: Nashville
-state: TN
-zip_code: 55555
+street_address: 73 Park Brook Gdns
+city: Middlesex
+state: NJ
+zip_code: 08846
 country: United States of America
-phone: (716) 555-5555
+phone: (201) 895-8813
 
 # homepage tiles
-tiles-source: pages # accepts "posts" or "pages"
+tiles-source: posts # accepts "posts" or "pages"
 tiles-count: 6
 
 # social settings (key must match name of font awesome icon)
