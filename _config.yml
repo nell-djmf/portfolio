@@ -6,16 +6,16 @@ description: Full stack software engineer with a background in healthcare <br />
 baseurl: "/portfolio" # the subpath of your site, e.g. /blog
 url: https://nell-djmf.github.io
 author:
-street_address: 73 Park Brook Gdns
+street_address:
 city: Middlesex
 state: NJ
-zip_code: 08846
-country: United States of America
+zip_code:
+country: USA
 phone: (201) 895-8813
 
 # homepage tiles
 tiles-source: posts # accepts "posts" or "pages"
-tiles-count: 6
+tiles-count: 4
 
 # social settings (key must match name of font awesome icon)
 # see https://fontawesome.com/icons?d=gallery&p=2&s=brands
