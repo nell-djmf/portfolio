@@ -17,7 +17,7 @@
     <div id="main" class="alt">
 
       <!-- One -->
-      <section id="one">
+  <section id="one">
 	<div class="inner">
     {% for post in site.posts %}
     {% if post.title != 404 %}
@@ -26,11 +26,12 @@
 	  </header>
 	  {% if post.image %}<span class="image main"><img src="{{ site.baseurl }}/{{ post.image }}" alt="" /></span>{% endif %}
 	  <!-- {% if post.date %}<p>{{ post.date }}</p>{% endif %} -->
+    <a href="{{page.link}}" class="button special">Github</a>
 	  <p>{{ post.content }}</p>
 	  {% endif %}
           {% endfor %}
 	</div>
-      </section>
+  </section>
 
     </div>
 
