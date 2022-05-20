@@ -29,62 +29,43 @@ nav-menu: true
 </section>
 
 <!-- Two -->
-<section id="two" class="spotlights">
-	<section>
-		<a href="https://www.linkedin.com/in/chaz-curlee/" class="image">
-			<img src="assets/images/pic08.jpg" alt="" data-position="center center" />
-		</a>
-		<div class="content">
-			<div class="inner">
-				<header class="major">
-					<h3>Chaz Curlee</h3>
-				</header>
-				<p>"Nell is single-handedly one of the most fascinating software engineers I have ver met. Her outstanding design eye, implementation of tough concepts into her applications, and thirst for new knowledge set her apart from the run-of-the-mill engineer. 
-				<br />
-				There is not a doubt in my mind that whoever has Nell on their team will never see the shadow of doubt for that decision. Unfortunately, the English language does not allow for enough accurate adjectives to describe Nell's skill. I hope, in time, her actions can more than prove that my words are but the tip of the iceberg that is Nell's phenomenal ability."</p>
-				<ul class="actions">
-					<a href="https://www.linkedin.com/in/chaz-curlee/" class="button next">LinkedIn</a>
-				</ul>
+<section id="two">
+	<div class="inner">
+		<div class="row 200%">
+			<div class="6u 12u$(medium)">
+				<h2 id="elements">Experience</h2>
+				<hr />
+				<h3>General Assembly</h3>
+				<h4>Software Engineering Fellow <em><span class="float">Feb 2022 = Present</span></em></h4>
+				<p>Designed and developed accessible, responsive, and functional web applications using modern frameworks</p>
+				<p>Collaborated with different teams over the course of the program where we learned to troubleshoot, perform code reviews, and manage a Git workflow.</p>
+				<p>Constructed and implemented both SQL (PostgreSQL) and NoSQL (MongoDB) databases for the application data storage</p>
+				<div class="box">
+					<h3>Education</h3>
+					<h4>General Assembly</h4>
+					<p><strong>Software Engineering Immersive</strong><em><span class="float">Feb - May 2022</span></em></p>
+					<p>A 12-week, 500+ hour immersive Software Engineering program that builds fluency in full-stack web development with emphasis on work-ready skill set, using industry best practices. </p>
+				</div>
+			</div>
+			<div class="6u$ 12u$(medium)">
+				<h2>Recommendations</h2>
+				<div class="box">
+				<h4>Chaz Curlee</h4>
+				<p><span class="image left"><a href="https://www.linkedin.com/in/chaz-curlee/" class="image"><img src="assets/images/pic08.jpg" alt="" data-position="top center" /></a></span>
+				Nell is single-handedly one of the most fascinating software engineers I have ver met. Her outstanding design eye, implementation of tough concepts into her applications, and thirst for new knowledge set her apart from the run-of-the-mill engineer. There is not a doubt in my mind that whoever has Nell on their team will never see the shadow of doubt for that decision. Unfortunately, the English language does not allow for enough accurate adjectives to describe Nell's skill. I hope, in time, her actions can more than prove that my words are but the tip of the iceberg that is Nell's phenomenal ability.</p>
+				<hr />
+				<h4>Jenna Allgeier</h4>
+				<p><span class="image right"><a href="https://www.linkedin.com/in/jenna-allgeier/" class="image"><img src="assets/images/pic09.jpg" alt="" data-position="top center" /></a></span>I could not recommend Nell more highly. Brilliant engineer, extraordinary problem-solving skills, and a genuinely kind human being. The end product of every single project Nell took on, working solo or in a group, went above and beyond all expectations. Nell is absolutely incredible</p>
+				</div>
 			</div>
 		</div>
-	</section>
-	<section>
-		<a href="https://www.linkedin.com/in/jenna-allgeier/" class="image">
-			<img src="assets/images/pic09.jpg" alt="" data-position="top center" />
-		</a>
-		<div class="content">
-			<div class="inner">
-				<header class="major">
-					<h3>Jenna Allgeier</h3>
-				</header>
-				<p>"I could not recommend Nell more highly. Brilliant engineer, extraordinary problem-solving skills, and a genuinely kind human being. The end product of every single project Nell took on, working solo or in a group, went above and beyond all expectations. Nell is absolutely incredible."</p>
-				<ul class="actions">
-					<a href="https://www.linkedin.com/in/jenna-allgeier/" class="button next">LinkedIn</a>
-				</ul>
-			</div>
-		</div>
-	</section>
-	<!-- <section>
-		<a href="generic.html" class="image">
-			<img src="{% link assets/images/pic10.jpg %}" alt="" data-position="25% 25%" />
-		</a>
-		<div class="content">
-			<div class="inner">
-				<header class="major">
-					<h3>Sed nunc ligula</h3>
-				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
-				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
-				</ul>
-			</div>
-		</div>
-	</section> -->
+	</div>
 </section>
 
 <!-- Three -->
 <section id="three">
 	<div class="inner">
+		<br />
 		<header class="major">
 			<h2>Dreams into Reality</h2>
 		</header>
@@ -100,5 +81,3 @@ nav-menu: true
 	Delving into this world has been simultaneously the most challenging, and the most rewarding experience of my life. Looking at code in the early days used to feel like trying to decipher another language (which it was). And just like learning a new language, the more I learn, the more I appreciate the nuance and personality of the writer. Among all the brackets, conditions, and loops, you can discern an artistry that I thought was only possible in traditional mediums. I’d like to think that somewhere, floating in the depths of cyberspace, someone will discover my own artistry - even the clumsy, bloated projects from when I first tried my hand at making something. They might say “wow, this is awful” or even “wow, how did that even work?” But in the end, it was me! I contributed something to the broad tapestry of this industry, no matter how small. And one day, when I’m older, wiser, and maybe have a higher reputation on Stack Overflow, I can create something that warrants a simple “wow.”</p>
 	</div>
 </section>
-
-</div>
