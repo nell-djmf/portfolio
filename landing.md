@@ -39,7 +39,7 @@ nav-menu: true
 				<h4>Software Engineering Fellow <em><span class="float">Feb 2022 - Present</span></em></h4>
 				<p>Designed and developed accessible, responsive, and functional web applications using modern frameworks</p>
 				<p>Collaborated with different teams over the course of the program where we learned to troubleshoot, perform code reviews, and manage a Git workflow.</p>
-				<p>Constructed and implemented both SQL (PostgreSQL) and NoSQL (MongoDB) databases for the application data storage</p>
+				<p>Constructed and implemented both SQL (PostgreSQL) and NoSQL (MongoDB) databases for application data storage</p>
 				<div class="box">
 					<h3>Education</h3>
 					<h4>General Assembly</h4>
