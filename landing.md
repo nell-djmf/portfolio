@@ -13,7 +13,7 @@ nav-menu: true
 <!-- One -->
 <section id="one">
 	<div class="inner">
-			<a href="https://drive.google.com/file/d/1tm9a3OwipSNpmaGhDtvzpL4iyR7eMs39/view?usp=sharing" class="button next" target="_blank">Resume</a>
+			<a href="https://docs.google.com/document/d/1z8vcwO7R7FQIoHDXTdLSBOm0eeBeBTfuth6JaC88I-c/edit?usp=sharing" class="button next" target="_blank">Resume</a>
 			<br />
 			<br />
 			<p><strong>Base:</strong> Javascript, HTML, CSS, Python
